@@ -1,0 +1,28 @@
+{
+  "version": "0.0.2",
+  "channel": "private-multiplayer-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.2",
+  "sourceCommit": "d1f44cae81f2244863fef50aadfcea825e7f154b",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.2-windows-x64.zip",
+      "bytes": 140347567,
+      "sha256": "e0e34f8b8b4192c93ae4c1b9042bf5e5f254a768929847ab7be6d414bec4da7e",
+      "payloadFiles": 209,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    },
+    {
+      "asset": "Hexforged-0.0.2-linux-x64.tar.gz",
+      "bytes": 140573538,
+      "sha256": "55a438f080f613e0dc8683afbb187f6c182bc46d5888315f34ebd9490880cce1",
+      "payloadFiles": 205,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    }
+  ]
+}
