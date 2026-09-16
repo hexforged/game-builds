@@ -1,6 +1,6 @@
 # 🔨 Hexforged desktop downloads
 
-<p align="center"><img src="https://github.com/hexforged/game-builds/releases/download/v0.0.1/hexforged-primary-dark-1024w.png" alt="Hexforged" width="320"></p>
+<p align="center"><img src="https://github.com/hexforged/game-builds/releases/download/v0.0.3/hexforged-primary-transparent-1024w.png" alt="Hexforged" width="320"></p>
 
 Download the named Windows ZIP or Linux archive from
 [Releases](https://github.com/hexforged/game-builds/releases).
