@@ -1,0 +1,28 @@
+{
+  "version": "0.0.5",
+  "channel": "alpha-persistent-camera-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.5",
+  "sourceCommit": "a195759d1ff3752c5255e08a146621b1752c7d62",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.5-windows-x64.zip",
+      "bytes": 140614565,
+      "sha256": "10672b696e0d1fb7055629be7968b0ffd4df2cd7bd5e1e9cd5814301ec3b241f",
+      "payloadFiles": 213,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    },
+    {
+      "asset": "Hexforged-0.0.5-linux-x64.tar.gz",
+      "bytes": 140631075,
+      "sha256": "f3ff0e58b4e4518ac462eed8964bcc60a65aa13bfc457a3c4611233c95747905",
+      "payloadFiles": 208,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    }
+  ]
+}
