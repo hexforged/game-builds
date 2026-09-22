@@ -1,0 +1,28 @@
+{
+  "version": "0.0.6",
+  "channel": "alpha-session-takeover-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.6",
+  "sourceCommit": "f4458049107f6a18c489f24b77cc17df52b798bc",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.6-windows-x64.zip",
+      "bytes": 140614510,
+      "sha256": "05d9981ed9ce6ad75c23884b14e717a8f6e404bd528e4a21089a3f1c8d489531",
+      "payloadFiles": 213,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    },
+    {
+      "asset": "Hexforged-0.0.6-linux-x64.tar.gz",
+      "bytes": 140625638,
+      "sha256": "86642950ee35746100420305384ec9d4cafa8a1f47da64480d8aa49da2dd895b",
+      "payloadFiles": 208,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    }
+  ]
+}
