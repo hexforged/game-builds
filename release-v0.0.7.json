@@ -1,0 +1,28 @@
+{
+  "version": "0.0.7",
+  "channel": "alpha-live-hero-takeover-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.7",
+  "sourceCommit": "7951d82148ced8327dd5437ce9ba988455af8635",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.7-windows-x64.zip",
+      "bytes": 140615325,
+      "sha256": "8d0f440c60a1d949ab7420f6be5dce3838578abc1aa70734dc1a54fcc65c336c",
+      "payloadFiles": 213,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    },
+    {
+      "asset": "Hexforged-0.0.7-linux-x64.tar.gz",
+      "bytes": 140631842,
+      "sha256": "2ea76a247ed863732e362997de6d65beb521e6ab466ce7cd6f2e0862bf2005f9",
+      "payloadFiles": 208,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false
+    }
+  ]
+}
