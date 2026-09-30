@@ -1,0 +1,37 @@
+{
+  "version": "0.0.9",
+  "channel": "alpha-owned-hero-deletion-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.9",
+  "sourceCommit": "4a03f26946e442db4754ba45b34130c9e73dd2e9",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.9-windows-x64.zip",
+      "bytes": 140696401,
+      "sha256": "1a8a9968c0d4a560856fdd281a373db5b741725de86c7eed8b9d606f2a041c33",
+      "payloadFiles": 214,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.9-linux-x64.tar.gz",
+      "bytes": 140719067,
+      "sha256": "032037a25b7fe2c6b7314be70189e73e1379f218edced3082f6124e9d5293c19",
+      "payloadFiles": 209,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "4a03f26946e442db4754ba45b34130c9e73dd2e9"
+}
