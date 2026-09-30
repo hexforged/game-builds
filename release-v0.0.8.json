@@ -1,0 +1,37 @@
+{
+  "version": "0.0.8",
+  "channel": "alpha-persistent-heroes-account-flow-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.8",
+  "sourceCommit": "49a189ffe834952c420bd3beb35db29c96f6bc79",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.8-windows-x64.zip",
+      "bytes": 140692381,
+      "sha256": "f8f72996f2b3589aa027e91fcde5602623ae12e776f949e6394bdb9fd22ba986",
+      "payloadFiles": 214,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.8-linux-x64.tar.gz",
+      "bytes": 140714322,
+      "sha256": "9a7aa677537c9a26832c9c49f6f1238986945cc9b2a169d87aadf8605e73da91",
+      "payloadFiles": 209,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "86f1a846f7c995f95b1f1077bbf8b31700015175"
+}
