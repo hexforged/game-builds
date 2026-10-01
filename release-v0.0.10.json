@@ -1,0 +1,37 @@
+{
+  "version": "0.0.10",
+  "channel": "alpha-manual-remember-me-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.10",
+  "sourceCommit": "eb8a018b3fb9254fb8248f00a47a5e8d121c5199",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.10-windows-x64.zip",
+      "bytes": 140712918,
+      "sha256": "8574419f7689fde1b971fdbfc0fc9afbfbfd7d1360f19acfc4e39d81521e50d0",
+      "payloadFiles": 214,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.10-linux-x64.tar.gz",
+      "bytes": 140733971,
+      "sha256": "6287442dd710333f70725080fb9907e9c88a68ccca115f5658961fce01f7aba5",
+      "payloadFiles": 209,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "eb8a018b3fb9254fb8248f00a47a5e8d121c5199"
+}
