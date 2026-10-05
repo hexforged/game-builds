@@ -1,0 +1,37 @@
+{
+  "version": "0.0.11",
+  "channel": "alpha-factorless-password-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.11",
+  "sourceCommit": "bd0eb9bbb06e45b9881d79a93a2a2175d86ae25c",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.11-windows-x64.zip",
+      "bytes": 142937360,
+      "sha256": "0dfaed3ad6ba31e7c3179b82eaadaab9b7fa14b3e9fb23599218784d85fdf456",
+      "payloadFiles": 214,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.11-linux-x64.tar.gz",
+      "bytes": 140533201,
+      "sha256": "9a5d283788bac08eea8d2d5f65f6e430a8ed55e98c0a39b5102adb9e793d4081",
+      "payloadFiles": 209,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "bd0eb9bbb06e45b9881d79a93a2a2175d86ae25c"
+}
