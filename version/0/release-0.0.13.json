@@ -1,0 +1,43 @@
+{
+  "version": "0.0.13",
+  "channel": "alpha-native-security-key-preview",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.13",
+  "sourceCommit": "a696aa4c04c6e06c7baf974ad4d61da563d7bcc5",
+  "distributionTagMeaning": "Metadata only; not a copy of game source history",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.13-windows-x64.zip",
+      "bytes": 176421859,
+      "sha256": "0d5dff6ca6e0bc1c24939130cdaf6ba932e3ed5e27a80818d2434204f102af4b",
+      "payloadFiles": 210,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.13-linux-x64.tar.gz",
+      "bytes": 173638060,
+      "sha256": "07ee0af1077bad7ebb53a46e700f229fe1b7af4d08a9429b08982dedf57f8e78",
+      "payloadFiles": 206,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "a696aa4c04c6e06c7baf974ad4d61da563d7bcc5",
+  "nativeSourceCompanion": {
+    "asset": "Hexforged-0.0.13-native-security-key-sources-02.tar.gz",
+    "bytes": 1040080,
+    "sha256": "046af96252e38e37c2708b0961ed2376256ca65aaab9a4a343f2e37cbc55a48c",
+    "kind": "Upstream sources, canonical patches and build instructions only"
+  }
+}
