@@ -1,0 +1,43 @@
+{
+  "version": "0.0.17",
+  "sourceRepository": "hexforged/game (private)",
+  "sourceTag": "v0.0.17",
+  "sourceCommit": "a4c2a635e06616b8b2fa35886e8d7a9253dfa763",
+  "channel": "alpha-western-ruins-preview",
+  "distributionTagMeaning": "Metadata only; private game source stays in its source repository",
+  "artifacts": [
+    {
+      "asset": "Hexforged-0.0.17-windows-x64.zip",
+      "bytes": 191225353,
+      "sha256": "b73c803f38b9305dafd455ca6517904f59d44c21107dc2eda6e778a94210f637",
+      "payloadFiles": 211,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    },
+    {
+      "asset": "Hexforged-0.0.17-linux-x64.tar.gz",
+      "bytes": 188118206,
+      "sha256": "63e6e5a7393104de000cee6536112e47aa0fd098495af24b7581761a96170336",
+      "payloadFiles": 207,
+      "kind": "interactive-human-client",
+      "smoke": false,
+      "dedicatedServer": false,
+      "legalFiles": [
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt"
+      ]
+    }
+  ],
+  "packagingToolSourceCommit": "a4c2a635e06616b8b2fa35886e8d7a9253dfa763",
+  "nativeSourceCompanion": {
+    "asset": "Hexforged-0.0.17-native-security-key-sources.tar.gz",
+    "bytes": 1040080,
+    "sha256": "046af96252e38e37c2708b0961ed2376256ca65aaab9a4a343f2e37cbc55a48c",
+    "kind": "Upstream native sources, verified patches, licenses and build instructions"
+  }
+}
